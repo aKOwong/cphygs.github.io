@@ -1,22 +1,36 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
-title: CPhyGS 
-email: cphygs@gmail.com
+title: Your awesome title
+email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  An association for research trainees in cell biology
-  and similar fields at the University of British Columbia.
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  jekyll
 
+# Layout settings
+header_type: default  # values [ drawer, default ]
+post_type: highlight    # values [ highlight, default ]
+pagination_type: default  # values [ ops, default ]
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "cphygs.github.io"# the base hostname & protocol for your site
-twitter_username: 
-github_username: 
+more_vert:
+  option1:
+    name: Cool Option 1
+    link: www.myawesomelink.com
+  option2:
+    name: Cool Option 2
+    link: www.myawesomelink.com
+  option3:
+    name: Cool Option 3
+    link: www.myawesomelink.com
+
+disqus: false
+disqus_shortname: 'gdgmanagua'
 
 # Build settings
 markdown: kramdown
+
+# Show future posts
+future: true
