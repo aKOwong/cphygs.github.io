@@ -1,7 +1,9 @@
 ---
 title: Planning Committee 
 layout: page
+permalink: /exec/
 ---
+
 
 Our grad society is new, and we're looking for help!
 If you're interested in making our community an awesome environment
