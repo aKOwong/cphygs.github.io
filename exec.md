@@ -1,5 +1,5 @@
 ---
-title: Exec Members 
+title: Planning Committee 
 layout: page
 permalink: exec
 ---
@@ -13,9 +13,9 @@ Give us a shout at cphygs@gmail.com
 Our current roster of "SygPhygs" members are:
 
 
+Amanda Pisio  
 Andrew Wong  
 Anna D'Souza  
-Amanda Pisio  
 Emily Lostchuck  
 Erin Bell  
 Leslie Chan  

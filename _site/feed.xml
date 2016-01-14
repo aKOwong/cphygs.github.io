@@ -6,59 +6,57 @@
 </description>
     <link>http://cphygs.github.io/</link>
     <atom:link href="http://cphygs.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 13 Jan 2016 22:37:40 -0800</pubDate>
-    <lastBuildDate>Wed, 13 Jan 2016 22:37:40 -0800</lastBuildDate>
+    <pubDate>Wed, 13 Jan 2016 23:47:43 -0800</pubDate>
+    <lastBuildDate>Wed, 13 Jan 2016 23:47:43 -0800</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>Introducing CPhyGS</title>
+        <description>&lt;p&gt;Greetings everyone, we’re your new graduate student society representing
+the CELL grad program and CPS department grad students!&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;Our aim is to:&lt;br /&gt;
+1. Provide professional development opportunities.&lt;br /&gt;
+2. Create a strong sense of community.&lt;br /&gt;
+3. Advocate on behalf of grad students.&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;We have a lot of events in the works, and we’ll keep you updated as they develop.
+But we’d love for you to help us! Send as an email at cphygs@gmail.com if you’d
+like to join the planning committee (we’re real friendly!), or if you have any
+suggestions or anything you’d like to discuss!&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
-
+&lt;p&gt;Happy Sciencing!
+- Your CPhyGS Planning Committee&lt;/p&gt;
 </description>
-        <pubDate>Tue, 11 Jul 2017 04:34:20 -0700</pubDate>
-        <link>http://cphygs.github.io/jekyll/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://cphygs.github.io/jekyll/welcome-to-jekyll.html</guid>
+        <pubDate>Tue, 01 Jan 2030 00:00:00 -0800</pubDate>
+        <link>http://cphygs.github.io/CphygsIntro.html</link>
+        <guid isPermaLink="true">http://cphygs.github.io/CphygsIntro.html</guid>
         
-        
-        <category>jekyll</category>
         
       </item>
     
       <item>
-        <title>TESTEST</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>Running Buffers Sun Run Team!</title>
+        <description>&lt;p&gt;Love to run? Want to love to run? Want to pretend to love to run?&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;Come on out and join the CPhyGS Running Buffers Sun Run team as we train
+for the iconic 32nd annual Vancouver Sun Run! Featuring a 10k course
+along the beautiful Vancouver seawall, the Sun Run is a perfect opportunity
+to sweat and exercise your body after many long hours of hunchbacked pipetting.
+And we can get brunch afterwards!&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;For the extra ambitious, training runs are ongoing on Tuesday and Thursday mornings.
+Contact Leslie Chan for details.&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/runningbufferslogo.jpg&quot; alt=&quot;Running Buffers Logo&quot; style=&quot;width: 200px;&quot; /&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Wed, 13 Jan 2016 00:00:00 -0800</pubDate>
-        <link>http://cphygs.github.io/jekyll/test.html</link>
-        <guid isPermaLink="true">http://cphygs.github.io/jekyll/test.html</guid>
+        <pubDate>Tue, 12 Jan 2016 00:00:00 -0800</pubDate>
+        <link>http://cphygs.github.io/sports/runningbuffer.html</link>
+        <guid isPermaLink="true">http://cphygs.github.io/sports/runningbuffer.html</guid>
         
         
-        <category>jekyll</category>
+        <category>sports</category>
         
       </item>
     
