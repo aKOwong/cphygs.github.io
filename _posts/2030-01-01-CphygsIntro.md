@@ -2,7 +2,7 @@
 layout: post-nodate
 title:  "Introducing CPhyGS"
 highlight: true
-image: /img/cphygslogo.jpg
+image: /img/cphygslogowebfit.gif
 ---
 
 Greetings everyone, we're your new graduate student society representing

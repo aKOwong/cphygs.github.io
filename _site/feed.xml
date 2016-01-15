@@ -6,8 +6,8 @@
 </description>
     <link>http://cphygs.github.io/</link>
     <atom:link href="http://cphygs.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 13 Jan 2016 23:47:43 -0800</pubDate>
-    <lastBuildDate>Wed, 13 Jan 2016 23:47:43 -0800</lastBuildDate>
+    <pubDate>Thu, 14 Jan 2016 22:45:54 -0800</pubDate>
+    <lastBuildDate>Thu, 14 Jan 2016 22:45:54 -0800</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -31,6 +31,52 @@ suggestions or anything you’d like to discuss!&lt;/p&gt;
         <pubDate>Tue, 01 Jan 2030 00:00:00 -0800</pubDate>
         <link>http://cphygs.github.io/CphygsIntro.html</link>
         <guid isPermaLink="true">http://cphygs.github.io/CphygsIntro.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Trivia Night!</title>
+        <description>&lt;p&gt;Hey CELL program and CPS department,
+We are planning a Trivia Night for you guys to test your knowledge and have 
+some well deserved fun. This event will occur in March, but the details have yet to 
+be decided upon. If you have concerns, comments, or suggestions on how you would like the Trivia 
+Night event to go down, please attend our bi-annual Town Hall Meeting scheduled 
+February 10th, 2016 in LSI 1330 at 1pm.&lt;/p&gt;
+
+&lt;p&gt;Best,&lt;/p&gt;
+
+&lt;p&gt;Your CPhyGS&lt;/p&gt;
+</description>
+        <pubDate>Thu, 14 Jan 2016 00:00:00 -0800</pubDate>
+        <link>http://cphygs.github.io/TriviaNight.html</link>
+        <guid isPermaLink="true">http://cphygs.github.io/TriviaNight.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Townhall</title>
+        <description>&lt;p&gt;We want to hear from you about how we work together to make the best
+grad student environment possible! Come join us on Feb 10, 2016 1 pm LSC 1330
+for pizza and discussion about your ideas!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 14 Jan 2016 00:00:00 -0800</pubDate>
+        <link>http://cphygs.github.io/Townhall.html</link>
+        <guid isPermaLink="true">http://cphygs.github.io/Townhall.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Alumni and Careers Night</title>
+        <description>&lt;p&gt;Did you know there are careers outside of academia? Do you love Vancouver? Who doesn’t! Well this night could be the night for you!  We have invited established UBC alumni working in relevant fields in Vancouver to share their experiences with you, in an informal setting.&lt;/p&gt;
+
+&lt;p&gt;We are planning to have this event mid-April in the evening (so that beer can be served!). Please stay tuned and let us know if you have an illustrious alumni that you think would like to participate.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 14 Jan 2016 00:00:00 -0800</pubDate>
+        <link>http://cphygs.github.io/AlumniNight.html</link>
+        <guid isPermaLink="true">http://cphygs.github.io/AlumniNight.html</guid>
         
         
       </item>

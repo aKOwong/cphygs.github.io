@@ -3,7 +3,7 @@ layout: post-nodate
 title:  "Running Buffers Sun Run Team!"
 categories: sports
 highlight: false
-image: /img/runningbufferslogo.jpg	
+image: /img/blackbgcard.gif
 ---
 
 Love to run? Want to love to run? Want to pretend to love to run?
