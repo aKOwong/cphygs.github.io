@@ -1,6 +1,6 @@
 ---
 layout: post-nodate
-title: Trivia Night!
+title: Trivia Night! Mar TBD
 highlight: false
 image: /img/blackbgcard.gif
 
