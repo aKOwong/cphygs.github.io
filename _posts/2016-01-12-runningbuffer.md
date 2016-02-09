@@ -1,7 +1,6 @@
 ---
 layout: post-nodate 
 title:  "Running Buffers Sun Run Team!"
-categories: sports
 highlight: false
 image: /img/blackbgcard.gif
 ---
