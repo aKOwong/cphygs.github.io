@@ -1,6 +1,6 @@
 ---
 layout: post-nodate
-title: "Board Games Night: Wed Feb 17" 
+title: "Board Games Night: Feb 17" 
 highlight: false
 image: /img/blackbgcard.gif
 date: 2016-02-08
@@ -14,4 +14,4 @@ We'll have:
 [Settlers of Catan](https://boardgamegeek.com/boardgame/13/catan)  
 [Redshirts](https://boardgamegeek.com/boardgame/120426/redshirts)  
 
-LSC 2nd floor pod, 6 pm Wed Feb 17, 2016. Come on out!
+LSC 2nd floor West pod, 6 pm Wed Feb 17, 2016. Come on out!

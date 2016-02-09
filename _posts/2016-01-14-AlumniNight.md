@@ -1,10 +1,8 @@
 ---
 layout: post-nodate
-title: Alumni and Careers Night: Apr TBD
+title: "Alumni and Careers Night: Apr TBD"
 highlight: false
 image: /img/blackbgcard.gif
-
-
 ---
 
 Did you know there are careers outside of academia? Do you love Vancouver? Who doesn’t! Well this night could be the night for you!  We have invited established UBC alumni working in relevant fields in Vancouver to share their experiences with you, in an informal setting.
