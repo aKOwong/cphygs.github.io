@@ -7,7 +7,7 @@ layout: default
     <div class="mdl-cell mdl-cell--2-col mdl-cell--hide-tablet mdl-cell--hide-phone"></div>
     <div class="post-section mdl-color--white mdl-shadow--4dp content mdl-color-text--grey-800 mdl-cell mdl-cell--8-col">
       <div class="mdl-color-text--grey-500">
-      {{ page.date | date: "Updated: %b %-d, %Y" }}{% if page.author %}{{ page.author }}{% endif %}{% if page.meta %}   {{ page.meta }}{% endif %}{% if page.categories %}   {% for cat in page.categories %} {{ cat }} {% endfor %} {% endif %}
+      {{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}{% if page.categories %} • {% for cat in page.categories %} {{ cat }} {% endfor %} {% endif %}
       </div>
       <h3>{{ page.title }}</h3>
       <article class="post-content">
@@ -23,15 +23,3 @@ layout: default
     </div>
   </div>
 </main>
-
-<!-- Google Analytics -->
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-73543419-1', 'auto');
-  ga('send', 'pageview');
-
-</script>

@@ -1,9 +1,9 @@
 ---
-layout: post-nodate
-title: Trivia Night! Mar TBD
+layout: post
+title: "Trivia Night! Mar TBD"
 highlight: false
 image: /img/blackbgcard.gif
-
+date: 2016-01-14
 
 ---
 

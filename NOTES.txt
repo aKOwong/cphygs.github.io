@@ -1,0 +1,5 @@
+2016-02-22
+
+Facebook share button doesn't work because we don't have a appID from facebook yet.
+Twitter does work.
+Google+ doesn't, probably for similar reasons to FB, but noone uses Google+ anyways.

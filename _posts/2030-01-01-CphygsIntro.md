@@ -1,8 +1,8 @@
 ---
-layout: post-nodate
+layout: post
 title:  "Introducing CPhyGS"
 highlight: true
-image: /img/cphygslogowebfit.gif
+image: /img/cphygslogo.gif
 ---
 
 Greetings everyone, we're your new graduate student society representing
