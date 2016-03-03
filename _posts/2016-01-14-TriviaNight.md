@@ -2,7 +2,7 @@
 layout: post
 title: "Trivia Night! 7pm, April 6th @ Displace"
 highlight: false
-image: /img/blackbgcard.gif
+image: cphygs.github.io/Slide1.jpg
 date: 2016-02-25
 
 ---
