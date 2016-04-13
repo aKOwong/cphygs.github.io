@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Alumni and Careers Night: Apr TBD"
+title: "Alumni and Careers Night: May 3"
 highlight: false
 image: /img/blackbgcard.gif
 date: 2016-04-13
