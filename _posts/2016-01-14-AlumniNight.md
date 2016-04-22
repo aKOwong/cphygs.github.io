@@ -10,8 +10,9 @@ Join us at our inaugural CPhyGS Alumni and Careers Night on **Tues May 3rd 6PM-8
 
 
 # Our alumni:
-### Panelists
 
+
+### Panelists
 
 **Bryan Tennant, PhD**  
 *Medical Science Liaison, GlaxoSmithKline*  
