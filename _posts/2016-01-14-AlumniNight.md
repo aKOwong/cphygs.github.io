@@ -29,6 +29,8 @@ Dr. Rhonda Wideman serves as Manager of External R&D and Alliances at Zymeworks,
 Dr. Wideman holds a PhD from the University of British Columbia, where her research focused on novel approaches for treating diabetes using cellular and gene therapy. She  completed a MBA in Management of Biotechnology at Simon Fraser University in 2010. Dr. Wideman is a past recipient of NSERC's Canada Graduate Scholarship, CIHR's Science to Business Scholarship, and BC Innovation Council's Ripples of Hope Award in Biotechnology and Entrepreneurship, and was an invited participant at Novartis' International Biotechnology Leadership Camp in 2009.  She serves on the Community Board of Directors for Mount Pleasant Neighbourhood House.
 
 ### Non-Panelists
+
+
 **Annika Noreen, PhD**  
 *Research Coordinator, Child and Family Research Institute*  
 Annika completed her PhD in Marine Biology & Population Genetics in Australia. She also completed a postdoc on tree genetics in Singapore, and moved to Vancouver in 2012 for family reasons. She realized she loved organizing, planning, and doing logistics related to research, so she decided to pursue a research project management career path. She is currently a Research Coordinator at the Child and Family Research Institute.
