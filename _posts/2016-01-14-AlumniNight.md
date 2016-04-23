@@ -14,7 +14,7 @@ Join us at our inaugural CPhyGS Alumni and Careers Night on **Tues May 3rd 6PM-8
 
 ### Panelists
 
-<img src="/img/alumpic/bryantennant.jpg" alt="Bryan Tennant" />  
+<img src="/img/alumpic/bryantennant.jpg" alt="Bryan Tennant" style="width: 200px;"/>  
 **Bryan Tennant, PhD**  
 *Medical Science Liaison, GlaxoSmithKline*  
 Bryan Tennant grew up in South Africa and dreamed of being a wildlife veterinarian, but when he immigrated to Canada he entered the Coordinated Science Program at UBC and graduated with a BSc in Biochemistry. As an undergraduate, he was the recipient of several student research awards and worked in the laboratory of Dr. Christopher Overall learning about musculoskeletal research. He briefly worked as a lab technician in the UBC Department of Microbiology before studying the role of cilia in the onset and progression of polycystic kidney disease for his Master’s degree at SFU with Dr. Lynne Quarmby. Bryan began another graduate degree at UBC at the Child and Family Research Institute with Dr. Brad Hoffman where he studied transcriptional regulation of islet function and survival in the context of diabetes. He recently graduated with his PhD in Cell and Developmental Biology and is now a Medical Science Liaison for GlaxoSmithKline in Vancouver where he educates medical professionals on vaccine research and development.
