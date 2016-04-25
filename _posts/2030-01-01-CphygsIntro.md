@@ -3,7 +3,6 @@ layout: post
 title:  "Introducing CPhyGS"
 highlight: true
 image: /img/CphyGS-logo-v4.jpg
-date: 2016-01-10
 ---
 
 Greetings everyone, we're your new graduate student society representing
