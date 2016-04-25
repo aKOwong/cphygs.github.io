@@ -53,10 +53,10 @@ Leon currently works as a Senior Research Associate at STEMCELL Technologies whe
 *Industrial Post-Doctoral Fellow, Centre for Drug Research and Development*  
 Annie is a recent PhD graduate from the Cell and Developmental Biology program. She did her PhD in the Naus laboratory where she discovered that gap junction mediated intercellular communication influences glioma cell migration by affecting their migration pattern. She then worked in the Loewen laboratory where she optimized an assay to look at the affect of acid stress on cancer cells. Annie has recently started as an industrial post-doctoral fellow at the Center for Drug Research and Development in the screening division. Her job at the CDRD is to design and optimize assays to identify novel therapeutic compounds.
 
-
+<img src="/img/alumpic/julierodriguez.jpg" alt="Julie Rodriguez" style="width: 200px;"/>  
 **Julie Rodriguez, MSc**  
 *Research Assistant, BC Cancer*  
-(photo + bio to come)
+Julie Rodriguez obtained her MSc in Molecular Biology & Biochemistry at SFU in 2013. Her thesis focused on genetic analysis of the deflagellation process in green alga. Since graduating, she has worked in clinical labs both at Lifelabs and the Centre for Disease Control. Currently, she is working as a Research Assistant at the BC Cancer Research Centre.
 
 
 **Marcia Graves**  
