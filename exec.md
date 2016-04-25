@@ -16,9 +16,9 @@ Our current roster of "SigPhygs" members are:
 
 Amanda Pisio  
 Andrew Wong  
-Anna D'Souza  
 Emily Lostchuck  
 Erin Bell  
 Leslie Chan  
 Sarah Garner  
+Stephanie Campbell
 
