@@ -31,6 +31,10 @@ Dr. Rhonda Wideman serves as Manager of External R&D and Alliances at Zymeworks,
 
 Dr. Wideman holds a PhD from the University of British Columbia, where her research focused on novel approaches for treating diabetes using cellular and gene therapy. She  completed a MBA in Management of Biotechnology at Simon Fraser University in 2010. Dr. Wideman is a past recipient of NSERC's Canada Graduate Scholarship, CIHR's Science to Business Scholarship, and BC Innovation Council's Ripples of Hope Award in Biotechnology and Entrepreneurship, and was an invited participant at Novartis' International Biotechnology Leadership Camp in 2009.  She serves on the Community Board of Directors for Mount Pleasant Neighbourhood House.
 
+**Marcia Graves**  
+*Lecturer, UBC Department of Immunology*  
+(photo + bio to come)
+
 ### Non-Panelists
 
 <img src="/img/alumpic/annikanoreen.jpg" alt="Annika Noreen" style="width: 200px;"/>  
@@ -59,9 +63,7 @@ Annie is a recent PhD graduate from the Cell and Developmental Biology program. 
 Julie Rodriguez obtained her MSc in Molecular Biology & Biochemistry at SFU in 2013. Her thesis focused on genetic analysis of the deflagellation process in green alga. Since graduating, she has worked in clinical labs both at Lifelabs and the Centre for Disease Control. Currently, she is working as a Research Assistant at the BC Cancer Research Centre.
 
 
-**Marcia Graves**  
-*Lecturer, UBC Department of Immunology*  
-(photo + bio to come)
+
 
 
 
