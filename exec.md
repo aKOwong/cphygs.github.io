@@ -11,14 +11,17 @@ for graduate students and all research trainees, come join us in the
 CPhyGS Executive Committee!
 Give us a shout at cphygs@gmail.com
 
-Our current roster of "SigPhygs" members are:
+##Current SigPhygs
 
 
 Amanda Pisio  
 Andrew Wong  
+Connie Leung  
 Emily Lostchuck  
 Erin Bell  
 Leslie Chan  
 Sarah Garner  
 Stephanie Campbell
 
+##Former SigPhygs
+Anna D'souza
