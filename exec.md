@@ -11,7 +11,7 @@ for graduate students and all research trainees, come join us in the
 CPhyGS Executive Committee!
 Give us a shout at cphygs@gmail.com
 
-##Current SigPhygs
+## Current SigPhygs
 
 
 Amanda Pisio  
@@ -23,5 +23,5 @@ Leslie Chan
 Sarah Garner  
 Stephanie Campbell
 
-##Former SigPhygs
+## Former SigPhygs
 Anna D'souza
