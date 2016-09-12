@@ -5,7 +5,7 @@ highlight: true
 image: /img/CphyGS-logo-v4.jpg
 ---
 
-Greetings everyone, we're your new graduate student society representing
+Greetings everyone, we're your graduate student society representing
 the CELL grad program and CPS department grad students!
 
 Our aim is to:  
@@ -19,4 +19,4 @@ like to join the planning committee (we're real friendly!), or if you have any
 suggestions or anything you'd like to discuss!
 
 Happy Sciencing!
-- Your CPhyGS Planning Committee
+- Your CPhyGS Executive Team
