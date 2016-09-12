@@ -2,7 +2,7 @@
 layout: post
 title:  "Introducing CPhyGS"
 highlight: true
-image: /img/Homepage-logo-2-square.jpg
+image: /img/Homepage-logo-2-square.gif
 ---
 
 Greetings everyone, we're your graduate student society representing
